@@ -1,5 +1,5 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
-import { Observable } from 'rxjs';
+//import { Observable } from 'rxjs';
 import { ModalDirective } from '../../node_modules/ngx-bootstrap';
 import { QuestionClass } from './question-class';
 import { ToastrService } from 'ngx-toastr';
