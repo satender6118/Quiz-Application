@@ -1,4 +1,4 @@
-# Angular-Quiz-Application
+#   Quiz-Application Using Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
@@ -27,5 +27,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Screenshots:
-![Result Screenshot](https://github.com/VinayKrMittal/Angular-Quiz-Application/tree/master/src/assets/screenshot1.png)
+![Result Screenshot](https://github.com/satender6118/Quiz-Application/assets/screenshot1.png);
+![Result Screenshot](https://github.com/satender6118/Quiz-Application/assets/screenshot2.png);
+![Result Screenshot](https://github.com/satender6118/Quiz-Application/assets/screenshot3.png);
+![Result Screenshot](https://github.com/satender6118/Quiz-Application/assets/screenshot4.png)
 
