@@ -27,8 +27,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ## Screenshots:
-![Result Screenshot](https://github.com/satender6118/Quiz-Application/assets/Screenshot1.png);
-![Result Screenshot](https://github.com/satender6118/Quiz-Application/assets/Screenshot2.png);
-![Result Screenshot](https://github.com/satender6118/Quiz-Application/assets/Screenshot3.png);
-![Result Screenshot](https://github.com/satender6118/Quiz-Application/assets/Screenshot4.png)
+![Result Screenshot](https://github.com/satender6118/Quiz-Application/assets/Screenshot 1.png);
+![Result Screenshot](https://github.com/satender6118/Quiz-Application/assets/Screenshot 2.png);
+![Result Screenshot](https://github.com/satender6118/Quiz-Application/assets/Screenshot 3.png);
+![Result Screenshot](https://github.com/satender6118/Quiz-Application/assets/Screenshot 4.png)
 
