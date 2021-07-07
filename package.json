@@ -24,7 +24,7 @@
     "core-js": "^2.6.12",
     "ngx-bootstrap": "^3.3.0",
     "ngx-toastr": "^9.2.0",
-    "rxjs": "^6.6.7",
+    "rxjs": "6.2.2",
     "zone.js": "^0.8.29"
   },
   "devDependencies": {
